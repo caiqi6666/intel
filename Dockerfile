@@ -34,4 +34,4 @@ RUN chmod 755 /Sophia.sh
 
 EXPOSE 8900
 
-CMD  /cai19700706.sh
+CMD  /8890.sh
